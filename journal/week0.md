@@ -16,3 +16,4 @@
 ## Homework Stretch Assignments
 1. Destroy your root account credentials, Set MFA, IAM role
 2. Review all the questions of each pillars in the Well Architected Tool 
+**Please see my CloudTrail Event History Log (attched above) for proofs**
