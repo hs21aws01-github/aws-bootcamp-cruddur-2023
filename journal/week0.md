@@ -12,6 +12,8 @@
 [my AWS account - CloudTrail Event History Log](assets/event_history.csv)
 
 [My Logical Diagram on Lucid Chart](https://lucid.app/lucidchart/cdd63908-4fec-46aa-8769-395606744e95/edit?viewport_loc=-2675%2C-535%2C6400%2C2744%2C0_0&invitationId=inv_2c977eff-d361-48ae-a4ea-4b63ceb623c8)  
+![image](https://user-images.githubusercontent.com/123754425/219919547-e0658ac0-0065-4266-b19d-201cfa248b9c.png)
+
 
 ## Homework Stretch Assignments
 1. Destroy your root account credentials, Set MFA, IAM role
