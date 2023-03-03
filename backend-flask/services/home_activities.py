@@ -3,6 +3,9 @@ from opentelemetry import trace
 tracer = trace.get_tracer("home.activities")
 class HomeActivities:
   def run():
+    # Below lines are disable to save spend on CloudWatch Logs
+    #def run(logger):
+    #logger.info("HomeActivities")
     with tracer.start_as_current_span("home-activities-mock-data"):
       span = trace.get_current_span()
       now = datetime.now(timezone.utc).astimezone()
